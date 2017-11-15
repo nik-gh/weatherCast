@@ -1,0 +1,22 @@
+html {
+  background: url(images/bgd.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+body {
+  background: none;
+}
+
+input {
+  margin: 1.25rem 0;
+}
+
+.container {
+  text-align: center;
+  margin-top: 6.5rem;
+  width: 29rem;
+}
+
+#weather {
+  margin-top: 1rem;
+}
